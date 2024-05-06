@@ -32,6 +32,7 @@ And There You Go ! 🎉
 ## Birthday Wisher🎂
 
 Loads this Page Instead of Coutdown on the Birthday
+![ScreenShot of Countdown](screenshots/wishPage.png)
 
 It's Fully Responsive and you change styles in the `app.css`
 

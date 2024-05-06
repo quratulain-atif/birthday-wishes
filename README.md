@@ -1,2 +1,2 @@
-# birthday-wishes
+# Birthday-wishes
 Made with React with Hooks.

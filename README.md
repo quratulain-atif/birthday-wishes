@@ -21,7 +21,6 @@ or Head to [https://birthday-wisher.netlify.app/generate]()
 
 Enter the `name , day , month of birthday`
 
-![ScreenShot of Form](screenshots/generate.png)
 
 Click on Generate Link
 
@@ -29,11 +28,6 @@ You Can see a Link being generated Copy or Visit the link by Clicking on the But
 
 And There You Go ! 🎉
 
-![ScreenShot of Form](screenshots/duma.png)
-
-## ScreenShot of Coutdown Timer⏲️
-
-![ScreenShot of Countdown](screenshots/countdown.png)
 
 ## Birthday Wisher🎂
 
